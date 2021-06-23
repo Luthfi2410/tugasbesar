@@ -1,2 +1,2 @@
-# grocery app
- ecommerce app using flutter, dart and for backend SQLite
+# Tugas Besar
+ Dibuat menggunakan flutter, dart dan untuk backend menggunakan SQLite
